@@ -3,9 +3,9 @@ Instacart is an online grocery store that operates through an app. They want to 
 ## Objectives
 To perform an initial data and exploratory analysis of some of Instacart's data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 ##### Clean and merge four data sets: orders, products, department, and customer data.
-#### Analyze the data to answer questions from marketing and sales teams (for example, the busiest time of day, highest grossing days of the week, most loyal customers, popular products, etc.).
-### Analyze the data to discover differences in user's ordering habits based on various characteristics (such as region, income, age, loyalty status, etc.).
-### Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for example: gender, dietary choice(vegetarian/vegan), number of dependants, etc.).
+##### Analyze the data to answer questions from marketing and sales teams (for example, the busiest time of day, highest grossing days of the week, most loyal customers, popular products, etc.).
+##### Analyze the data to discover differences in user's ordering habits based on various characteristics (such as region, income, age, loyalty status, etc.).
+##### Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for example: gender, dietary choice(vegetarian/vegan), number of dependants, etc.).
 ## Tools
 Language: Python
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
