@@ -21,5 +21,5 @@ Explored basic descriptive statistics (max/min, quartiles, mean, standard deviat
 Grouped data by user, order, and department to allow exploration and analysis at each level; used aggregated data to create flags about user ordering habits (such as ‘new customer’, ‘loyal customer’, etc.) and demographic info (such as 'income group', 'dietary choice’); confirmed the new data created via crosstabs and value counts.
 ### Visualizing data
 Used Matplotlib and Seaborn to create histograms, line charts, pie charts, and bar charts (vertical/horizontal, stacked, and 100% stacked).
-### Reporting result
+### Reporting results
 Provided an Excel file that explained the answers to questions from sales/marketing as well as documented the data population flow, consistency checks, data wrangling, and column derivations.
