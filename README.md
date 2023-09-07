@@ -7,9 +7,9 @@ To perform an initial data and exploratory analysis of some of Instacart's data 
 ##### Analyze the data to discover differences in user's ordering habits based on various characteristics (such as region, income, age, loyalty status, etc.).
 ##### Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for example: gender, dietary choice(vegetarian/vegan), number of dependants, etc.).
 ## Tools
-Language: Python
-Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
-Software: Jupiter Notebook, Excel
+##### Language: Python
+##### Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
+##### Software: Jupiter Notebook, Excel
 ## Skills Demonstrated
 ### Cleaning data
 Removed duplicates, resolved missing values, and addressed mixed or incorrect data types.
